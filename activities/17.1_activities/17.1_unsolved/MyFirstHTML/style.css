@@ -1,0 +1,39 @@
+h1 {
+    
+    background: white;
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+}
+p {
+    
+    text-align: center;
+
+}
+
+h2 {
+    background-color: navy;
+    color: navajowhite;
+    font-size: 16;
+    text-emphasis: bold;
+    text-align: center;
+
+}
+
+h3 {
+
+    color: cadetblue;
+    font-size: 16;
+    text-emphasis: bold;
+    text-align: center;
+
+}
+
+img {
+    width: 50%;
+}
+
+ul{
+
+text-align: center;
+}
