@@ -3,7 +3,10 @@
   background-color: lightblue;
   padding: 35px;
 /* Add margin here. */
+  margin: auto;
 /* Add text align below */
+
+
 }
 
 
@@ -38,4 +41,5 @@ h3 {
 }
 .submit {
   margin-top: 20px;
+}
 }
